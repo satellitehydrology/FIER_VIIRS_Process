@@ -6,4 +6,4 @@
 2. Pre-edit original VIIRS water fraction maps for the purpose of REOF analysis, or being used as reference to quantile scale the FIER-synthesized water fraction maps.
 3. Quantile-scale the FIER-synthesized water fraction maps.
 
-Note that functions relevant to the FIER process itself (REOF analysis and synthesis) are in the FIERpy repo/package. 
+**Note that functions relevant to the FIER process itself (REOF analysis and synthesis) are in the FIERpy repo/package.**
